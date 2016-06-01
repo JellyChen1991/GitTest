@@ -1,0 +1,11 @@
+{
+    "name": "jellychendeveloper/gittest",
+    "description": "git test",
+    "authors": [
+        {
+            "name": "Jelly Chen",
+            "email": "451453325@qq.com"
+        }
+    ],
+    "require": {}
+}
